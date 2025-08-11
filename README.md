@@ -94,9 +94,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ## OUTPUT:
 <img width="1896" height="1122" alt="Screenshot 2025-08-11 081633" src="https://github.com/user-attachments/assets/9fb9d727-d103-4e18-ad0c-fcc1c52d38b1" />
 
-### CLIENT OUTPUT:
 
-### SERVER OUTPUT:
 
 ## RESULT:
 The program is executed succesfully
